@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drpeddum.com/sitemap.xml
