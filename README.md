@@ -4,3 +4,4 @@
 
 - ไฟล์เว็บทั้งหมดอยู่ในโฟลเดอร์ public/
 - Deploy ผ่าน Cloudflare Workers (tiny-bush-1de2) ตามค่าใน wrangler.jsonc
+อัปเดต 3 พ.ย.
